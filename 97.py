@@ -1,2 +1,2 @@
-name=input()
-print(name[::-1])
+boom1=input()
+print(boom1[::-1])
